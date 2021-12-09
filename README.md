@@ -18,8 +18,10 @@ Warning : you may have Warning "Cannot find reference 'imread' in '__init__.py |
 use this command to run the Program, i have to include the Input and the Outputs folders for segmentation each image
 from Input folder and the result well be seen in Output folder , and the code is in background_remove.py python3
 
-I used pycharm , to run the program , first you have to install this packages below in terminal
+I used pycharm , to run the program , first you have to install this packages below in terminal:
+
 1.run  "pip install -r requirements.txt" to install the packages
+
 2.run "python3  background_remove.py Input\ images/ Outputs/"
  
 bellow we can see before and after implementing the code in image
