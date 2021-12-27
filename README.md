@@ -1,4 +1,4 @@
-The author's contact information Name: Ahmed Alshafaee , ID: 316474980
+The author's contact information Name: Ahmed Alshafaee , 
 Extract Handwriting from Background My goal is to remove the
 Yellow background and keep only the handwriting in front
 
